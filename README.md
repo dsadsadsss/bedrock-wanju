@@ -1,6 +1,16 @@
-以[netherhosting.com](https://www.netherhosting.com/) 为例
+声明：本仓库仅为自用备份，不适合别人使用，非开源项目，请勿擅自使用与传播，否则责任自负。
 
-设置参数，上传，改权限777，启动名称是否为bedrock_server，然后启动
+脚本特点：支持临时隧道，固定隧道，可在list.log中查看节点信息
+
+使用方法：
+
+1、第一步：把玩具原来的bedrook启动文件改名为bedrook_server
+
+2、第二步：上传仓库中的bedrock_server文件到玩具中，改权限777
+
+3、第三步：修改bedrock_server中的参数信息
+
+4、第四步：启动玩具即可
 
 
 # 免责声明:
