@@ -14,7 +14,7 @@
 
 2、第二步：上传仓库中的bedrock_server文件到玩具中，改权限777
 
-3、第三步：修改bedrock_server中的参数信息
+3、第三步：修改bedrock_server中的参数信息，制启动命令到JAR_SH参数，并把启动命令中启动文件改为bedrook_server
 
 4、第四步：启动玩具即可
 
