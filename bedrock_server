@@ -27,9 +27,6 @@ export SUB_NAME='bbn'
 export JAR_SH='./bedrook_server' #复制原启动命令填入并修改启动文件名为bedrook_server
 
 #=======================================
-# 设置是否显示日志，默认显示，填no不显示，yes显示
-# export RIZHI='no'
-#=======================================
 
 echo "aWYgY29tbWFuZCAtdiBjdXJsICY+L2Rldi9udWxsOyB0aGVuCiAgICAgICAgRE9XTkxPQURfQ01E
 PSJjdXJsIC1zTCIKICAgICMgQ2hlY2sgaWYgd2dldCBpcyBhdmFpbGFibGUKICBlbGlmIGNvbW1h
