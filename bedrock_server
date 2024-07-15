@@ -21,6 +21,12 @@ export MPATH=${MPATH:-'vms'} #vmess路径
 export VM_PORT=${VM_PORT:-'8001'} #vmess端口
 export CF_IP=${CF_IP:-'ip.sb'} # 优选ip
 export SUB_NAME=${SUB_NAME:-'argo'} # 节点名称
+
+
+# 设置3件套文件名称，防止关键词封禁
+export ne_file=${ne_file:-'nene.js'}#哪吒
+export cff_file=${cff_file:-'cff.js'}#隧道
+export web_file=${web_file:-'web.js'}#xry
 #=======================================
 # 启动玩具原程序，把原游戏文件改名bedrook_server,默认开启，需要关闭可在export前面加#号即可.
 # 注意原游戏启动后，不显示节点日志
